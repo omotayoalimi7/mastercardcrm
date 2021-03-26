@@ -23,6 +23,7 @@
                   validation="required"
                   validation-name="Last Name"
                   placeholder="Doe"
+                  help="please note that this works as your password"
                 />
               <FormulateInput
                   name="emailaddress"
@@ -40,7 +41,9 @@
                   validation="required"
                   placeholder="Select Employee Role"
                   label="Role"
+
                 />
+
                 <FormulateInput
                   name="companycode"
                   type="hidden"

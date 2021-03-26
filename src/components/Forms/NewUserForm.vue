@@ -28,6 +28,7 @@
                   validation="required"
                   validation-name="Last Name"
                   placeholder="Doe"
+                  help="please note that this works as your password"
                 />
               <FormulateInput
                   name="emailaddress"
