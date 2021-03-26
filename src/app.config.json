@@ -1,0 +1,4 @@
+{
+  "baseUrl": "http://sandbox.dustbinboy.com/api/login",
+  "baseUrlCors": "http://sandbox.dustbinboy.com/api/"
+}
